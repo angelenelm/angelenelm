@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Looping gif of art by Mienar of an open laptop and coffee mug on a desk in front of a window overlooking the sunset and suburban houses](c490ca0a25bc300089e784e635ff465f.gif)
 
-### hi there 👋 i'm angelene, an aspiring software engineer from sunny san diego, california 👩🏻‍💻
+### hi there 👋 i'm angelene (she/her), an aspiring software engineer from sunny san diego, california 👩🏻‍💻
 
 **Currently:** Frontend Developer volunteer for [Hack for LA](https://hackforla.org) 🌆
 
