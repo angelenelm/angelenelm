@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### hi there 👋 i'm angelene (she/her), an aspiring software engineer from sunny san diego, california 👩🏻‍💻
 
-**Currently:** Frontend Developer volunteer for [Hack for LA](https://hackforla.org) 🌆
+**Currently:** Fullstack Fellow at [Formation](https://formation.dev) and Frontend Developer volunteer for [Hack for LA](https://hackforla.org) 🌆
 
 I'm a UC Irvine Computer Science alum looking to help build beautiful and accessible internet experiences ✨
 
