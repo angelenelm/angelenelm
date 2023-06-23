@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Looping gif of art by Mienar of an open laptop and coffee mug on a desk in front of a window overlooking the sunset and suburban houses](c490ca0a25bc300089e784e635ff465f.gif)
+![Art by Mienar of an open laptop and coffee mug on a desk in front of a window overlooking the sunset and suburban houses](c490ca0a25bc300089e784e635ff465f.gif)
 
-### hi there 👋 i'm angelene (she/her), an aspiring software engineer from sunny san diego, california 👩🏻‍💻
+### hi there 👋 i'm angelene (she/her), a frontend software engineer from sunny san diego, california 👩🏻‍💻
 
-**Currently:** Fullstack Fellow at [Formation](https://formation.dev) and Frontend Developer volunteer for [Hack for LA](https://hackforla.org) 🌆
+**Currently:** Fullstack Software Engineering Fellow at [Formation](https://formation.dev) and Frontend Developer for [Hack for LA](https://hackforla.org) 🌆
 
 I'm a UC Irvine Computer Science alum looking to help build beautiful and accessible internet experiences ✨
 
@@ -26,5 +26,7 @@ I first became engrossed in web design/development as a kid throwing together ba
 - Languages: ```Javascript``` ```HTML``` ```CSS```
 - Libraries & Frameworks: ```React``` ```Next.js```
 - Tools & Platforms: ```Git``` ```Vercel``` ```Figma``` ```Sketch App``` ```Adobe Photoshop``` ```Adobe Illustrator```
+
+
 
 In my spare time, I'm probably hiking, watching Critical Role, or playing Final Fantasy.
