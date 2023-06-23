@@ -24,8 +24,7 @@ I'm a UC Irvine Computer Science alum looking to help build beautiful and access
 I first became engrossed in web design/development as a kid throwing together basic web pages for my Neopets, then as a tween modifying themes for my Tumblr blog. Now I love conceptualizing, designing, and developing new worlds on the Internet to share my interests and contribute to causes I am passionate about.
 
 - Languages: ```Javascript``` ```HTML``` ```CSS```
-- Libraries & Frameworks: ```React``` ```Node``` ```Express```
-- Tools & Platforms: ```Git``` ```Docker``` ```Netlify```
-- Design: ```Figma``` ```Sketch``` ```Adobe XD``` ```Adobe Photoshop```
+- Libraries & Frameworks: ```React``` ```Next.js```
+- Tools & Platforms: ```Git``` ```Vercel``` ```Figma``` ```Sketch App``` ```Adobe Photoshop``` ```Adobe Illustrator```
 
-In my spare time, I'm probably watching Critical Role, playing Final Fantasy XIV, or building a keyboard.
+In my spare time, I'm probably hiking, watching Critical Role, or playing Final Fantasy.
