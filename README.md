@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### hi there 👋 i'm angelene (she/her), a frontend software engineer from sunny san diego, california 👩🏻‍💻
 
-**Currently:** Fullstack Software Engineering Fellow at [Formation](https://formation.dev) and Frontend Developer for [Hack for LA](https://hackforla.org) 🌆
+**Currently:** Frontend Software Engineer & Computer Scientist @ [NIWC Pacific](https://www.niwcpacific.navy.mil/)
 
-I'm a UC Irvine Computer Science alum looking to help build beautiful and accessible internet experiences ✨
+Hi there! I’m currently a frontend software engineer and Computer Scientist at NIWC Pacific, building intuitive and accessible digital experiences to solve tough information challenges for the US Navy.
 
 I first became engrossed in web design/development as a kid throwing together basic web pages for my Neopets, then as a tween modifying themes for my Tumblr blog. Now I love conceptualizing, designing, and developing new worlds on the Internet to share my interests and contribute to causes I am passionate about.
 
