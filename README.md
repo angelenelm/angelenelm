@@ -23,10 +23,10 @@ Hi there! I’m currently a frontend software engineer and Computer Scientist at
 
 I first became engrossed in web design/development as a kid throwing together basic web pages for my Neopets, then as a tween modifying themes for my Tumblr blog. Now I love conceptualizing, designing, and developing new worlds on the Internet to share my interests and contribute to causes I am passionate about.
 
-- Languages: ```Javascript``` ```HTML``` ```CSS```
-- Libraries & Frameworks: ```React``` ```Next.js```
-- Tools & Platforms: ```Git``` ```Vercel``` ```Figma``` ```Sketch App``` ```Adobe Photoshop``` ```Adobe Illustrator```
+- Languages: ```Typescript/Javascript``` ```HTML``` ```CSS```
+- Libraries & Frameworks: ```React``` ```React Router (Remix)``` ```Next.js```
+- Tools & Platforms: ```Git``` ```Figma``` ```Sketch App``` ```Adobe Photoshop``` ```Adobe Illustrator```
 
 
 
-In my spare time, I'm probably hiking, watching Critical Role, or playing Final Fantasy.
+In my spare time, I'm probably playing Final Fantasy.
